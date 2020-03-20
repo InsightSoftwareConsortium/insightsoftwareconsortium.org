@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Insight Software Consortium</title>
+  <link rel="stylesheet" href="bib-publication-list.css"/>
+</head>
+<body>
+
+  <noscript>
+    <!-- bibtex source hidden by default, show it if JS disabled -->
+    <style>
+    #bibtex { display: block;}
+    </style>
+  </noscript>
+
+<br/>
+<table id="pubTable" class="display"></table>
+<pre id="bibtex" style="display:none;"></pre>
+
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+          <script type="text/javascript" src="bib-list.js"></script>
+          <script type="text/javascript">
+              $(document).ready(function() {
+      bibtexify("ITKBibliography.bib", "pubTable");
+          });
+  </script>
+</body>
+</html>
