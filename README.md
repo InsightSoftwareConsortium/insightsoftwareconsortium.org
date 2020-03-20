@@ -38,29 +38,26 @@ http://www.apache.org/licenses/LICENSE-2.0
 
 ## Development
 
-1.  **Create a new site.**
+1. **Install [Node.js](https://nodejs.org/).**
 
-    Use the Gatsby CLI to create a new site, specifying the default starter.
-
-    ```sh
-    # create a new Gatsby site using the Material UI starter
-    gatsby new <project-name> https://github.com/dominicabela/gatsby-starter-material-ui
-    ```
-
-2.  **Start developing.**
-
-    Navigate into your new site’s directory and start it up.
+2. **Clone and install dependencies.**
 
     ```sh
-    cd <project-name>
-    gatsby develop
+    git clone https://github.com/InsightSoftwareConsortium/insightsoftwareconsortium.org
+    cd insightsoftwareconsortium.org
+    npm ci
     ```
 
-3.  **Open the source code and start editing!**
+3.  **Start developing.**
+
+    ```sh
+    npm run develop
+    ```
+
+4.  **Open the source code and start editing!**
 
     Your site is now running at `http://localhost:8000`!
 
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
 
     Open the `<project-name>` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
-
