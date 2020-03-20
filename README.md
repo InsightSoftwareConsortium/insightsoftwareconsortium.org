@@ -2,6 +2,16 @@
 
 This ``insightsoftwareconsortium-org`` branch of this repository store the static content served at the root of http://insightsoftwareconsortium.org.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/eb97a4fa-5a24-41f7-995c-affeb811763c/deploy-status)](https://app.netlify.com/sites/insightsoftwareconsortium/deploys)
+
+Kitware hosted:
+
+  https://insightsoftwareconsortium.org
+
+Netlify hosted:
+
+  https://insightsoftwareconsortium.netlify.com
+
 # Synchronization
 
 Every 5 minutes, the branch [insightsoftwareconsortium-org](https://github.com/InsightSoftwareConsortium/insightsoftwareconsortium.org/tree/insightsoftwareconsortium-org) is automatically pulled into the live site hosted by [Kitware, Inc.](https://www.kitware.com). There is no need to connect to the server in order to make changes.
