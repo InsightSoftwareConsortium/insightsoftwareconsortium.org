@@ -58,6 +58,18 @@ http://www.apache.org/licenses/LICENSE-2.0
     npm ci
     ```
 
+If you encounter the error:
+
+```
+Error: ENOSPC: System limit for number of file watchers reached,
+```
+
+[Run](https://github.com/gatsbyjs/gatsby/issues/11406):
+
+```
+echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+```
+
 3.  **Start developing.**
 
     ```sh
