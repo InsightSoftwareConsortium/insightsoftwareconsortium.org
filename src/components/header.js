@@ -26,7 +26,9 @@ import LibraryBooksIcon from '@material-ui/icons/LibraryBooks'
 import PeopleIcon from '@material-ui/icons/People'
 import MeetingRoomIcon from '@material-ui/icons/MeetingRoom'
 import CreateIcon from '@material-ui/icons/Create'
+import EmojiPeopleIcon from '@material-ui/icons/EmojiPeople'
 import Image from '../components/image'
+import ListSubheader from '@material-ui/core/ListSubheader'
 
 const drawerWidth = 260
 
@@ -165,6 +167,19 @@ const Header = ({ siteTitle }) => {
               <ListItemText>Software</ListItemText>
             </ListItem>
           </Link>
+
+          <ListItem button>
+            <ListItemIcon>
+              <EmojiPeopleIcon />
+            </ListItemIcon>
+            <ListItemText>Survey</ListItemText>
+          </ListItem>
+          <Link to="/survey/2019">
+            <ListItem button>
+              <ListSubheader>2019</ListSubheader>
+            </ListItem>
+          </Link>
+
           <Link to="/citations">
             <ListItem button>
               <ListItemIcon>
