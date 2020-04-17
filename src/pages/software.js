@@ -19,7 +19,7 @@ const SoftwarePage = () => {
         <p>
           {' '}
           Additional information on the software tools can be found on their
-          respective webistes, including details on the specific open-source
+          respective websites, including details on the specific open-source
           license for each toolkit.
         </p>
       </Typography>
