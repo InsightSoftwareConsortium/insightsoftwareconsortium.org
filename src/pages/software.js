@@ -3,6 +3,7 @@ import React from 'react'
 import Layout from '../components/layout'
 import SEO from '../components/seo'
 import ITKLogo from '../components/itk-logo'
+import SimpleITKLogo from '../components/simpleitk-logo'
 
 import Divider from '@material-ui/core/Divider'
 import Typography from '@material-ui/core/Typography'
@@ -58,6 +59,35 @@ const SoftwarePage = () => {
           </li>
         </ul>
         <br />
+      </Typography>
+      <Typography variant="h4">SimpleITK</Typography>
+      <Divider />
+      <br />
+      <Typography variant="body1">
+        <p>
+          <MuiLink href="https://simpleitk.org">
+            <div style={{ maxWidth: `75px`, marginBottom: `0.15rem` }}>
+              <SimpleITKLogo />
+            </div>
+            <strong> SimpleITK </strong>{' '}
+          </MuiLink> is a simplified programming interface to the algorithms and
+          data structures of ITK. It supports multiple programming languages
+          including C++, Python, R, Java, C#, Lua, Ruby and TCL. These bindings
+          enable scientists to develop image analysis workflows in their
+          preferred programming language. The software supports more than 15
+          different image file formats, provides over 280 image analysis
+          filters, and implements a unified interface to the ITK intensity-based
+          registration framework.
+        </p>
+
+        <p> SimpleITK was created as part of a concerted effort to simplify the
+        use of the Insight Toolkit, making it more accessible to a wider
+        audience. The initial funding for the toolkit was provided by the United
+        States National Library of Medicine (NLM) under the American Recovery
+        and Reinvestment Act (ARRA), with the initial version of the toolkit
+        developed as a collaboration between The Mayo Clinic, Kitware Inc, The
+        University of Iowa and NLM's intramural research program. The first
+        major release of the toolkit was announced in April-May 2017. </p>
       </Typography>
     </Layout>
   )
