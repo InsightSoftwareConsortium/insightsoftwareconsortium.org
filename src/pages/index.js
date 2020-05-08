@@ -3,6 +3,7 @@ import React from 'react'
 import Layout from '../components/layout'
 import Image from '../components/image'
 import ITKLogo from '../components/itk-logo'
+import NumFOCUSFiscallySponsoredProjectLogo from '../components/numfocus-fiscally-sponsored-project-logo'
 import SEO from '../components/seo'
 
 import Grid from '@material-ui/core/Grid'
@@ -95,6 +96,37 @@ const IndexPage = () => {
           at University of Pittsburgh.
         </p>
       </Typography>
+
+      <Typography variant="h4" gutterBottom>
+        Supporting the ISC
+      </Typography>
+      <Typography variant="body1">
+        <p>
+          The ISC software projects are fiscally sponsored projects of <MuiLink href="https://numfocus.org">NumFOCUS</MuiLink>,
+          a non-profit dedicated to supporting the open source scientific
+          computing community. If you want to support ISC's mission to promote
+          and maintain open-source, freely available software for medical
+          image analysis in teaching, research, and commercial applications,
+          please consider making a <MuiLink href="https://numfocus.org/membership">donation</MuiLink> to
+          support our efforts.
+        </p>
+
+        <center>
+          <MuiLink href="https://numfocus.org">
+            <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
+              <NumFOCUSFiscallySponsoredProjectLogo />
+            </div>
+          </MuiLink>
+        </center>
+
+        <p>
+          NumFOCUS is 501(c)(3) non-profit charity in the United States; as such,
+          donations to NumFOCUS are tax-deductible as allowed by law. As with any
+          donation, you should consult with your personal tax adviser or the IRS about
+          your particular tax situation.
+        </p>
+      </Typography>
+
     </Layout>
   )
 }
