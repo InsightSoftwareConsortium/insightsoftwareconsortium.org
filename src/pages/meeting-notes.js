@@ -35,7 +35,7 @@ const MeetingNotesPage = () => {
           </li>
           <li>
             <MuiLink href="/notes/ISC_NOTES_20200315_REDACTED.pdf">
-              ISC Meeting Notes, September 9th, 2019
+              ISC Meeting Notes, March 15th, 2020
             </MuiLink>
           </li>        </ul>
       </Typography>
