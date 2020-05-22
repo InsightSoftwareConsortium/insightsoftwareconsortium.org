@@ -107,7 +107,7 @@ const IndexPage = () => {
           computing community. If you want to support ISC's mission to promote
           and maintain open-source, freely available software for medical
           image analysis in teaching, research, and commercial applications,
-          please consider making a <MuiLink href="https://numfocus.org/membership">donation</MuiLink> to
+          please consider making a <MuiLink href="https://numfocus.org/donate-to-itk">donation</MuiLink> to
           support our efforts.
         </p>
 
