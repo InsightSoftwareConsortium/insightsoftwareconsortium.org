@@ -24,8 +24,13 @@ const MeetingNotesPage = () => {
         </p>
         <ul>
           <li>
-            <MuiLink href="/notes/ISC_NOTES_20180307_REDACTED.pdf">
-              ISC Meeting Notes, March 7th, 2018
+            <MuiLink href="/notes/ISC_NOTES_20200428_REDACTED.pdf">
+              ISC Meeting Notes, April 28th, 2020
+            </MuiLink>
+          </li>
+          <li>
+            <MuiLink href="/notes/ISC_NOTES_20200315_REDACTED.pdf">
+              ISC Meeting Notes, March 15th, 2020
             </MuiLink>
           </li>
           <li>
@@ -34,10 +39,11 @@ const MeetingNotesPage = () => {
             </MuiLink>
           </li>
           <li>
-            <MuiLink href="/notes/ISC_NOTES_20200315_REDACTED.pdf">
-              ISC Meeting Notes, March 15th, 2020
+            <MuiLink href="/notes/ISC_NOTES_20180307_REDACTED.pdf">
+              ISC Meeting Notes, March 7th, 2018
             </MuiLink>
-          </li>        </ul>
+          </li>
+        </ul>
       </Typography>
     </Layout>
   )
