@@ -49,7 +49,7 @@ const CouncilPage = () => {
           </li>
         </ul>
 
-        <p>The Board of Directors is:</p>
+        <p>Addition Council members are:</p>
         <ul>
           <li>Andras Lasso - Queen's University</li>
           <li>
