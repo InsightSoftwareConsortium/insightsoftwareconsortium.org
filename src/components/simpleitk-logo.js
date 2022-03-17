@@ -1,6 +1,6 @@
 import React from 'react'
 import { StaticQuery, graphql } from 'gatsby'
-import Img from 'gatsby-image'
+import { GatsbyImage } from "gatsby-plugin-image"
 
 /*
  * This component is built using `gatsby-image` to automatically serve optimized
@@ -21,14 +21,12 @@ const SimpleITKLogo = () => (
           relativePath: { eq: "simpleitk_logo.png" }
         ) {
           childImageSharp {
-            fluid(maxWidth: 150) {
-              ...GatsbyImageSharpFluid
-            }
+            gatsbyImageData(layout: FIXED, width: 150)
           }
         }
       }
     `}
-    render={data => <Img fluid={data.placeholderImage.childImageSharp.fluid} />}
+    render={data => <GatsbyImage image={data.placeholderImage.childImageSharp.gatsbyImageData} />}
   />
 )
 export default SimpleITKLogo

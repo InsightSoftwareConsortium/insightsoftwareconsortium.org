@@ -1,11 +1,11 @@
 import React from 'react'
 
 import Layout from '../components/layout'
-import SEO from '../components/seo'
+import Seo from '../components/seo'
 
 const SecondPage = () => (
   <Layout>
-    <SEO title="Page two" />
+    <Seo title="Page two" />
     <h1>Components</h1>
     <p>Welcome to the components page.</p>
   </Layout>

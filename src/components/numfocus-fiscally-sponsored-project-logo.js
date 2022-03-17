@@ -1,6 +1,6 @@
 import React from 'react'
 import { StaticQuery, graphql } from 'gatsby'
-import Img from 'gatsby-image'
+import { GatsbyImage } from "gatsby-plugin-image"
 
 /*
  * This component is built using `gatsby-image` to automatically serve optimized
@@ -21,14 +21,12 @@ const NumFOCUSFiscallySponsoredProjectLogo = () => (
           relativePath: { eq: "numfocus_fiscally_sponsored_project_logo.png" }
         ) {
           childImageSharp {
-            fluid(maxWidth: 300) {
-              ...GatsbyImageSharpFluid
-            }
+            gatsbyImageData(layout: FIXED, width: 300)
           }
         }
       }
     `}
-    render={data => <Img fluid={data.placeholderImage.childImageSharp.fluid} />}
+    render={data => <GatsbyImage image={data.placeholderImage.childImageSharp.gatsbyImageData} />}
   />
 )
 export default NumFOCUSFiscallySponsoredProjectLogo

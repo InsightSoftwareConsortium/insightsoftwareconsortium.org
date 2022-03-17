@@ -1,7 +1,7 @@
 import React from 'react'
 
 import Layout from '../components/layout'
-import SEO from '../components/seo'
+import Seo from '../components/seo'
 
 import Divider from '@material-ui/core/Divider'
 import MuiLink from '@material-ui/core/Link'
@@ -10,7 +10,7 @@ import Typography from '@material-ui/core/Typography'
 const CouncilPage = () => {
   return (
     <Layout>
-      <SEO title="Council" />
+      <Seo title="Council" />
       <Typography variant="h3">Council</Typography>
       <Divider />
       <br />

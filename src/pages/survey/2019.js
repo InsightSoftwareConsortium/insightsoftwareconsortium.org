@@ -1,7 +1,7 @@
 import React from 'react'
 
 import Layout from '../../components/layout'
-import SEO from '../../components/seo'
+import Seo from '../../components/seo'
 
 import Divider from '@material-ui/core/Divider'
 import MuiLink from '@material-ui/core/Link'
@@ -13,7 +13,7 @@ import interfaces from '../../images/survey/2019/interfaces.png'
 const Survey2019Page = () => {
   return (
     <Layout>
-      <SEO title="ITK Community Survey 2019 Summary" />
+      <Seo title="ITK Community Survey 2019 Summary" />
       <Typography variant="h3">2019 ITK Community Survey</Typography>
       <Divider />
       <br />
