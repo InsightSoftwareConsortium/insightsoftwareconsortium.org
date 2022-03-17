@@ -1,7 +1,7 @@
 import React from 'react'
 
 import Layout from '../components/layout'
-import SEO from '../components/seo'
+import Seo from '../components/seo'
 import ITKLogo from '../components/itk-logo'
 import SimpleITKLogo from '../components/simpleitk-logo'
 
@@ -12,7 +12,7 @@ import MuiLink from '@material-ui/core/Link'
 const SoftwarePage = () => {
   return (
     <Layout>
-      <SEO title="Software" />
+      <Seo title="Software" />
       <Typography variant="h3">Software</Typography>
       <Divider />
       <br />

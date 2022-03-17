@@ -1,7 +1,7 @@
 import React from 'react'
 
 import Layout from '../components/layout'
-import SEO from '../components/seo'
+import Seo from '../components/seo'
 
 import Divider from '@material-ui/core/Divider'
 import Typography from '@material-ui/core/Typography'
@@ -9,7 +9,7 @@ import Typography from '@material-ui/core/Typography'
 const Bylaws = () => {
   return (
     <Layout>
-      <SEO title="Bylaws" />
+      <Seo title="Bylaws" />
       <Typography variant="h3" component="h2">
         Bylaws of the Insight Software Consortium
       </Typography>

@@ -4,7 +4,7 @@ import Layout from '../components/layout'
 import Image from '../components/image'
 import ITKLogo from '../components/itk-logo'
 import NumFOCUSFiscallySponsoredProjectLogo from '../components/numfocus-fiscally-sponsored-project-logo'
-import SEO from '../components/seo'
+import Seo from '../components/seo'
 
 import Grid from '@material-ui/core/Grid'
 import Divider from '@material-ui/core/Divider'
@@ -14,7 +14,7 @@ import Typography from '@material-ui/core/Typography'
 const IndexPage = () => {
   return (
     <Layout>
-      <SEO title="Home" />
+      <Seo title="Home" />
       <Grid container spacing={3} justify="center">
         <Grid item xs={2}>
           <div style={{ maxWidth: `200px`, marginBottom: `1.45rem` }}>
