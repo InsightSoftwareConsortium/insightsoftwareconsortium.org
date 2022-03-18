@@ -14,6 +14,9 @@ Netlify hosted:
 
   https://insightsoftwareconsortium.netlify.com
 
+Fleek hosted:
+
+  https://isc.on.fleek.co/
 
 [//]: # (numfocus-fiscal-sponsor-attribution)
 
