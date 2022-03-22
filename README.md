@@ -2,21 +2,13 @@
 
 [![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](http://numfocus.org)
 
-This ``insightsoftwareconsortium-org`` branch of this repository store the static content served at the root of http://insightsoftwareconsortium.org.
+Fleek hosted:
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/eb97a4fa-5a24-41f7-995c-affeb811763c/deploy-status)](https://app.netlify.com/sites/insightsoftwareconsortium/deploys)
-
-Kitware hosted:
-
-  https://insightsoftwareconsortium.org
+  https://isc.on.fleek.co/
 
 Netlify hosted:
 
   https://insightsoftwareconsortium.netlify.com
-
-Fleek hosted:
-
-  https://isc.on.fleek.co/
 
 [//]: # (numfocus-fiscal-sponsor-attribution)
 
@@ -33,26 +25,6 @@ workshops, and a variety of other needs.
   </a>
 </div>
 <br>
-
-# Synchronization
-
-Every 5 minutes, the branch [insightsoftwareconsortium-org](https://github.com/InsightSoftwareConsortium/insightsoftwareconsortium.org/tree/insightsoftwareconsortium-org) is automatically pulled into the live site hosted by [Kitware, Inc.](https://www.kitware.com). There is no need to connect to the server in order to make changes.
-
-A script like this one is used:
-
-```
-#!/bin/bash
-
-SITE_DIR=/var/www/ISC
-SITE_REPO=git://github.com/InsightSoftwareConsortium/insightsoftwareconsortium.org.git
-SITE_BRANCH=insightsoftwareconsortium-org
-if [[ ! -d $SITE_DIR ]]; then
-  git clone $SITE_REPO $SITE_DIR -b $SITE_BRANCH
-fi
-cd $SITE_DIR
-git fetch origin
-git reset --hard origin/$SITE_BRANCH
-```
 
 # License
 
