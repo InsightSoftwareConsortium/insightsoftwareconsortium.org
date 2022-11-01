@@ -13,7 +13,7 @@ Netlify hosted:
 [//]: # (numfocus-fiscal-sponsor-attribution)
 
 The Insight Software Consortium (ISC) uses an [open governance model](./GOVERNANCE.md)
-and is fiscally sponsored by [NumFOCUS](https://numfocus.org/). Consider making a [tax-deductible donation](https://numfocus.org/donate-to-itk)
+and is fiscally sponsored by [NumFOCUS](https://numfocus.org/). Consider making a [tax-deductible donation](https://opencollective.com/itk)
 to help the project pay for developer time, professional services, travel,
 workshops, and a variety of other needs.
 
@@ -38,7 +38,7 @@ The ISC software projects are fiscally sponsored projects of [NumFOCUS](https://
 a non-profit dedicated to supporting the open source scientific computing
 community. If you want to support ISC's mission to promote open-source,
 reproducible scientific image analysis software for education and research,
-please consider making a [donation](https://numfocus.org/donate-to-itk) to support our efforts.
+please consider making a [donation](https://opencollective.com/itk) to support our efforts.
 
 NumFOCUS is 501(c)(3) non-profit charity in the United States; as such,
 donations to NumFOCUS are tax-deductible as allowed by law. As with any
