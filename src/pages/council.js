@@ -41,30 +41,24 @@ const CouncilPage = () => {
             <MuiLink href="mailto:hans-johnson@uiowa.edu">Hans Johnson</MuiLink>{' '}
             - The University of Iowa (Treasurer)
           </li>
-          <li>
-            <MuiLink href="mailto:pauly2@mail.med.upenn.edu">
-              Paul Yushkevich
-            </MuiLink>{' '}
-            - University of Pennsylvania (Chief Technology Officer)
-          </li>
         </ul>
 
-        <p>Addition Council members are:</p>
+        <p>Addition Council Members are:</p>
         <ul>
           <li>Andras Lasso - Queen's University</li>
-          <li>
-            Jon Haitz Legarreta Gorroño - PhD Student, Université de Sherbrooke
-          </li>
-          <li>
-            Lauren O'Donnell - Brigham and Women's Hospital - Harvard Medical
-            School
-          </li>
+          <li>Jon Haitz Legarreta Gorroño - Postdoctoral Research Fellow, Brigham and Women&#39;s Hospital, Harvard Medical School</li>
           <li>Ipek Oguz - University of Pennsylvania </li>
-          <li>Beatriz Paniagua - Kitware</li>
+          <li>Dženan ZukiĆ - Kitware</li>
+          <li>Julien Jomier - NVIDIA</li>
+          <li>Serena Bonaretti - Balgrist Campus</li>
         </ul>
-        <p>Founding Members include:</p>
+        <p>Past Council Members include:</p>
         <ul>
-          <li> Elsa Angelini - Columbia</li>
+          <li>Paul Yushkevich - UPenn</li>
+          <li>Lauren O'Donnell - Brigham and Women&#39;s Hospital - Harvard Medical School</li>
+          <li>Beatriz Paniagua - Kitware</li>
+
+          <li>Elsa Angelini - Columbia</li>
           <li>Brian Avants - UPenn</li>
           <li>Stephen Aylward - UNC (now with Kitware)</li>
           <li>Dan Blezek - GE CRD</li>
