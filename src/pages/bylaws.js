@@ -317,7 +317,7 @@ const Bylaws = () => {
           such participation shall constitute presence in person at the meeting.
         </p>
 
-        <p> Section 3.. Compensation of the Directors.</p>
+        <p> Section 3.9. Compensation of the Directors.</p>
 
         <p>
           {' '}
