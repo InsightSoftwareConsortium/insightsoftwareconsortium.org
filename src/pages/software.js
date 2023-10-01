@@ -60,6 +60,13 @@ const SoftwarePage = () => {
         </ul>
         <br />
       </Typography>
+      <Typography variant="h5">Release history</Typography>
+      <br />
+      <Typography variant="body1">
+        <p>ITK releases can be found at{' '} <MuiLink href="https://github.com/InsightSoftwareConsortium/ITK/releases">ITK releases</MuiLink>.
+        </p>
+      </Typography>
+      <br />
       <Typography variant="h4">SimpleITK</Typography>
       <Divider />
       <br />
@@ -88,6 +95,13 @@ const SoftwarePage = () => {
         developed as a collaboration between The Mayo Clinic, Kitware Inc, The
         University of Iowa and NLM's intramural research program. The first
         major release of the toolkit was announced in April-May 2017. </p>
+      <br />
+      </Typography>
+      <Typography variant="h5">Release history</Typography>
+      <br />
+      <Typography variant="body1">
+        <p>SimpleITK releases can be found at{' '} <MuiLink href="https://github.com/SimpleITK/SimpleITK/releases">SimpleITK releases</MuiLink>.
+        </p>
       </Typography>
     </Layout>
   )
