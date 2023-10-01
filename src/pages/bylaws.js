@@ -214,7 +214,7 @@ const Bylaws = () => {
         <p>
           {' '}
           The number of Directors of the Consortium shall consist of no less
-          than four individuals but nor more than fourteen as designated by the
+          than four individuals but no more than fourteen as designated by the
           Board.
         </p>
 
