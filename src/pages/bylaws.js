@@ -389,7 +389,9 @@ const Bylaws = () => {
         <p>
           {' '}
           A vacancy in any office may be filled for the unexpired portion of the
-          term by a majority vote of the Board at any meeting.
+          term by a plurality vote of the Board at any meeting. Each member of
+          the Board will cast one vote per vacancy. In case of tie, the
+          President will have a casting vote.
         </p>
 
         <p> Section 4.6. Powers and Duties of Officers.</p>
