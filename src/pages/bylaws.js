@@ -91,8 +91,9 @@ const Bylaws = () => {
         <p>
           {' '}
           The principal office of the Consortium shall be located at such place
-          as the Board of Directors shall from time to time designate. The
-          current office is located in the Clifton Park, NY, USA region.
+          as the Board of Directors shall from time to time designate. As a
+          NumFOCUS fiscally sponsored project, the Consortium may refer to the
+          NumFOCUS office in Austin, TX 78709, USA.
         </p>
 
         <p> Section 1.2 Other Offices.</p>
