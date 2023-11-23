@@ -43,55 +43,56 @@ const CouncilPage = () => {
         <ul>
           <li>Andras Lasso - Queen's University</li>
           <li>Jon Haitz Legarreta Gorroño - Brigham and Women&#39;s Hospital, Harvard Medical School</li>
-          <li>Ipek Oguz - University of Pennsylvania </li>
+          <li>Ipek Oguz - University of Pennsylvania</li>
           <li>Dženan Zukić - Kitware</li>
           <li>Julien Jomier - NVIDIA</li>
           <li>Serena Bonaretti - Balgrist Campus</li>
         </ul>
         <p>Past Council Members include:</p>
         <ul>
-          <li>Paul Yushkevich - UPenn</li>
+          <li>Paul Yushkevich - University of Pennsylvania</li>
           <li>Lauren O'Donnell - Brigham and Women&#39;s Hospital - Harvard Medical School</li>
           <li>Beatriz Paniagua - Kitware</li>
 
-          <li>Elsa Angelini - Columbia</li>
-          <li>Brian Avants - UPenn</li>
-          <li>Stephen Aylward - UNC (now with Kitware)</li>
-          <li>Dan Blezek - GE CRD</li>
-          <li>Josh Cates - Utah (now with OrthoGrid Systems)</li>
+          <li>Elsa Angelini - Columbia University</li>
+          <li>Brian Avants - University of Pennsylvania</li>
+          <li>Stephen Aylward - University of North Carolina at Chapel Hill</li>
+          <li>Dan Blezek - General Electric Corporate R&D</li>
+          <li>Josh Cates - University of Utah</li>
 
           <li>Vikram Chalana - Insightful</li>
-          <li>Ting Chen - UPenn</li>
-          <li>Jeffrey Duda - UPenn</li>
-          <li>James Gee - UPenn</li>
+          <li>Ting Chen - University of Pennsylvania</li>
+          <li>Jeffrey Duda - University of Pennsylvania</li>
+          <li>James Gee - University of Pennsylvania</li>
           <li>Bill Hoffman - Kitware</li>
-          <li>Paul Hughett - UPenn</li>
-          <li>Luis Ibanez - Kitware (now with Google)</li>
-          <li>Celina Imielinska - Columbia</li>
-          <li>Yinpeng Jin - Columbia</li>
+          <li>Paul Hughett - University of Pennsylvania</li>
+          <li>Luis Ibanez - Kitware</li>
+          <li>Celina Imielinska - Columbia University</li>
+          <li>Yinpeng Jin - Columbia University</li>
 
-          <li>Julien Jomier - UNC</li>
-          <li>Jisung Kim - UNC</li>
+          <li>Julien Jomier - University of North Carolina at Chapel Hill</li>
+          <li>Jisung Kim - University of North Carolina at Chapel Hill</li>
           <li>Brad King - Kitware</li>
-          <li>Bill Lorensen - GE CRD</li>
+          <li>Bill Lorensen - General Electric Corporate R&D</li>
           <li>Ken Martin - Kitware</li>
-          <li>Dimitris Metaxas - Reutgers</li>
-          <li>Jim Miller - GE CRD</li>
+          <li>Dimitris Metaxas - Rutgers University</li>
+          <li>Jim Miller - General Electric Corporate R&D</li>
           <li>Lydia Ng - Insightful</li>
-          <li>Aljaz Noe - UPenn</li>
+          <li>Aljaz Noe - University of Pennsylvania</li>
 
           <li>Sayan Pathak – Insightful</li>
-          <li>Peter Ratiu - BWH</li>
+          <li>Peter Ratiu - Brigham and Women&#39;s Hospital - Harvard Medical School</li>
           <li>Will Schroeder - Kitware</li>
-          <li>Marcelo Siqueira - UPenn</li>
-          <li>George Stetten - Pittsburgh</li>
-          <li>Tessa Sundaram - UPenn</li>
-          <li>Jayaram Udupa - Upenn</li>
-          <li>Ross Whitaker - Utah</li>
-          <li>Terry Yoo - NLM</li>
+          <li>Marcelo Siqueira - University of Pennsylvania</li>
+          <li>George Stetten - University of Pittsburgh</li>
+          <li>Tessa Sundaram - University of Pennsylvania</li>
+          <li>Jayaram Udupa - University of Pennsylvania</li>
+          <li>Ross Whitaker - University of Utah</li>
+          <li>Terry Yoo - National Library of Medicine</li>
 
-          <li>Ying Zhuge - UPenn</li>
+          <li>Ying Zhuge - University of Pennsylvania</li>
         </ul>
+        <p>Institutions correspond to members' affiliations at the time members were elected/in office.</p>
         <p> For more information, you may contact any of the ISC's Officers.</p>
       </Typography>
     </Layout>
