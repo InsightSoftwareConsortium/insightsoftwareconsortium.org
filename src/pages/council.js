@@ -22,24 +22,20 @@ const CouncilPage = () => {
         <p>The Officers for 2018 are:</p>
         <ul>
           <li>
-            <MuiLink href="mailto:matt.mccormick@kitware.com">
-              Matthew McCormick
-            </MuiLink>{' '}
-            - Kitware (President)
+            <MuiLink href="mailto:matt.mccormick@kitware.com">Matthew McCormick</MuiLink>
+            {' '} - Kitware (President)
           </li>
           <li>
-            <MuiLink href="mailto:brad@lowekamp.net">Bradley Lowekamp</MuiLink>{' '}
-            - (Vice President)
+            <MuiLink href="mailto:brad@lowekamp.net">Bradley Lowekamp</MuiLink>
+            {' '} - (Vice President)
           </li>
           <li>
-            <MuiLink href="mailto:ntustison@virginia.edu">
-              Nick Tustison
-            </MuiLink>{' '}
-            - University of Virginia (Secretary)
+            <MuiLink href="mailto:ntustison@virginia.edu">Nick Tustison</MuiLink>
+            {' '} - University of Virginia (Secretary)
           </li>
           <li>
-            <MuiLink href="mailto:hans-johnson@uiowa.edu">Hans Johnson</MuiLink>{' '}
-            - The University of Iowa (Treasurer)
+            <MuiLink href="mailto:hans-johnson@uiowa.edu">Hans Johnson</MuiLink>
+            {' '} - The University of Iowa (Treasurer)
           </li>
         </ul>
 
