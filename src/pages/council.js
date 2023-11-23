@@ -42,7 +42,7 @@ const CouncilPage = () => {
         <p>Addition Council Members are:</p>
         <ul>
           <li>Andras Lasso - Queen's University</li>
-          <li>Jon Haitz Legarreta Gorroño - Postdoctoral Research Fellow, Brigham and Women&#39;s Hospital, Harvard Medical School</li>
+          <li>Jon Haitz Legarreta Gorroño - Brigham and Women&#39;s Hospital, Harvard Medical School</li>
           <li>Ipek Oguz - University of Pennsylvania </li>
           <li>Dženan Zukić - Kitware</li>
           <li>Julien Jomier - NVIDIA</li>
