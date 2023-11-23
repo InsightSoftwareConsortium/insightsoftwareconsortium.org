@@ -27,7 +27,7 @@ const CouncilPage = () => {
           </li>
           <li>
             <MuiLink href="mailto:brad@lowekamp.net">Bradley Lowekamp</MuiLink>
-            {' '} - (Vice President)
+            {' '} - National Institutes of Health (Vice President)
           </li>
           <li>
             <MuiLink href="mailto:ntustison@virginia.edu">Nick Tustison</MuiLink>
