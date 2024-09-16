@@ -43,7 +43,6 @@ const CouncilPage = () => {
         <ul>
           <li>Andras Lasso - Queen's University</li>
           <li>Jon Haitz Legarreta Gorroño - Brigham and Women&#39;s Hospital, Harvard Medical School</li>
-          <li>Ipek Oguz - University of Pennsylvania</li>
           <li>Dženan Zukić - Kitware</li>
           <li>Nick Tustison - The University of Virginia</li>
           <li>Serena Bonaretti - Balgrist Campus</li>
