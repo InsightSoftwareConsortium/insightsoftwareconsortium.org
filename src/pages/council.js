@@ -30,12 +30,12 @@ const CouncilPage = () => {
             {' '} - National Institutes of Health (Vice President)
           </li>
           <li>
-            <MuiLink href="mailto:ntustison@virginia.edu">Nick Tustison</MuiLink>
-            {' '} - University of Virginia (Secretary)
+            <MuiLink>Julien Jomier</MuiLink>
+            {' '} - NVIDIA (Secretary)
           </li>
           <li>
-            <MuiLink href="mailto:hans-johnson@uiowa.edu">Hans Johnson</MuiLink>
-            {' '} - The University of Iowa (Treasurer)
+            <MuiLink>Jon Haitz Legarreta Gorroño</MuiLink>
+            {' '} - Brigham and Women&#39;s Hospital, Harvard Medical School (Treasurer)
           </li>
         </ul>
 
@@ -45,11 +45,12 @@ const CouncilPage = () => {
           <li>Jon Haitz Legarreta Gorroño - Brigham and Women&#39;s Hospital, Harvard Medical School</li>
           <li>Ipek Oguz - University of Pennsylvania</li>
           <li>Dženan Zukić - Kitware</li>
-          <li>Julien Jomier - NVIDIA</li>
+          <li>Nick Tustison - The University of Virginia</li>
           <li>Serena Bonaretti - Balgrist Campus</li>
         </ul>
         <p>Past Council Members include:</p>
         <ul>
+          <li>Ipek Oguz - University of Pennsylvania</li>
           <li>Paul Yushkevich - University of Pennsylvania</li>
           <li>Lauren O'Donnell - Brigham and Women&#39;s Hospital - Harvard Medical School</li>
           <li>Beatriz Paniagua - Kitware</li>
