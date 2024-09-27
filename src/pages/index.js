@@ -87,13 +87,13 @@ const IndexPage = () => {
         <p>
           The Principal Investigators for these partners were, respectively,
           Bill Lorensen at GE CRD, Will Schroeder at Kitware, Vikram Chalana at
-          Insightful, Stephen Aylward with Luis Ibáñez at UNC (Stephen is now at
-          Kitware, Luis at Google), Ross Whitaker with Josh Cates at UT (both
-          now at Utah), and Dimitri Metaxas at UPenn. Additionally, several
+          Insightful, Stephen Aylward with Luis Ibáñez at UNC, Ross Whitaker with
+          Josh Cates at UT, and Dimitri Metaxas at UPenn. Additionally, several
           subcontractors rounded out the consortium including Peter Raitu at
           Brigham & Women's Hospital; Celina Imielinska and Pat Molholt at
           Columbia University; Jim Gee at UPenn's Grasp Lab; and George Stetten
-          at University of Pittsburgh.
+          at University of Pittsburgh. All institutions correspond to their
+          affiliations at the time.
         </p>
       </Typography>
 
