@@ -1,8 +1,8 @@
 # insightsoftwareconsortium.org
 
 [![Build](https://github.com/InsightSoftwareConsortium/insightsoftwareconsortium.org/actions/workflows/build.yml/badge.svg)](https://github.com/InsightSoftwareConsortium/insightsoftwareconsortium.org/actions/workflows/build.yml)
-[![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](http://numfocus.org)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/eb97a4fa-5a24-41f7-995c-affeb811763c/deploy-status)](https://app.netlify.com/sites/insightsoftwareconsortium/deploys)
+[![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](http://numfocus.org)
 
 Fleek hosted:
 
