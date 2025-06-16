@@ -45,7 +45,6 @@ const CouncilPage = () => {
           <li>Jon Haitz Legarreta Gorroño - Brigham and Women&#39;s Hospital, Harvard Medical School</li>
           <li>Dženan Zukić - Kitware</li>
           <li>Nick Tustison - The University of Virginia</li>
-          <li>Serena Bonaretti - Balgrist Campus</li>
         </ul>
         <p>Past Council Members include:</p>
         <ul>
