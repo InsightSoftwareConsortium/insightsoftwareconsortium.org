@@ -22,11 +22,11 @@ const CouncilPage = () => {
         <p>The Officers for 2018 are:</p>
         <ul>
           <li>
-            <MuiLink href="mailto:matt.mccormick@kitware.com">Matthew McCormick</MuiLink>
-            {' '} - Kitware (President)
+            <MuiLink href="mailto:matthew.mccormick@insightsoftwareconsortium.org">Matthew McCormick</MuiLink>
+            {' '} - Fideus Labs (President)
           </li>
           <li>
-            <MuiLink href="mailto:brad@lowekamp.net">Bradley Lowekamp</MuiLink>
+            <MuiLink href="mailto:bradley.lowekamp@insightsoftwareconsortium.org">Bradley Lowekamp</MuiLink>
             {' '} - National Institutes of Health (Vice President)
           </li>
           <li>
