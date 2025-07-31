@@ -23,6 +23,21 @@ const MeetingNotesPage = () => {
           enable unfettered expression by board members during the meeting.
         </p>
         <ul>
+        <li>
+            <MuiLink href="/notes/ISC_NOTES_20250617_REDACTED.pdf">
+              ISC Meeting Notes, June 17th, 2025
+            </MuiLink>
+          </li> 
+        <li>
+            <MuiLink href="/notes/ISC_NOTES_20250317_REDACTED.pdf">
+              ISC Meeting Notes, March 17th, 2025
+            </MuiLink>
+          </li>
+        <li>
+            <MuiLink href="/notes/ISC_NOTES_20241216_REDACTED.pdf">
+              ISC Meeting Notes, December 16th, 2024
+            </MuiLink>
+          </li>
 		  <li>
             <MuiLink href="/notes/ISC_NOTES_20240617_REDACTED.pdf">
               ISC Meeting Notes, June 17th, 2024
